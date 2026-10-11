@@ -22,4 +22,5 @@
 **B2B:** кафе, творческие студии и другие площадки оплачивают продвижение своих одобренных карточек среди подходящей аудитории. Платные размещения обозначаются как «Партнёрское место».
 
 ### Lean Canvas
-<img width="981" height="684" alt="image" src="https://github.com/user-attachments/assets/ee36117e-96dd-4c7e-b523-e987a306e044" />
+<img width="986" height="675" alt="image" src="https://github.com/user-attachments/assets/33186799-3178-453d-8adc-631ce5de4aea" />
+
